@@ -1,4 +1,4 @@
-# Istio: Multiluster Configuration
+# Istio: Multicluster Configuration
 
 ## Summary
 
